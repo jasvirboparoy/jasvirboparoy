@@ -2,6 +2,10 @@
 - 👷 I’m currently working at Sitemate in the product delivery space
 - 🌱 I’m currently learning React and Nodejs
 - 📫 How to reach me: https://www.linkedin.com/in/jasvirboparoy/ 
+
+## Some projects I've worked on
+- Vanilla JS Stopwatch: https://github.com/jasvirboparoy/vanilla-js-stopwatch
+
 <!--
 **jasvirboparoy/jasvirboparoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
