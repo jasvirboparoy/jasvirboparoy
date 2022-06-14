@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning React and Nodejs
 - 📫 How to reach me: https://www.linkedin.com/in/jasvirboparoy/ 
 
-## Some projects I've worked on
+#### Some projects I've worked on
 - Vanilla JS Stopwatch: https://github.com/jasvirboparoy/vanilla-js-stopwatch
 
 <!--
