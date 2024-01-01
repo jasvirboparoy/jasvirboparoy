@@ -1,6 +1,4 @@
 ### Hi there 👋
-- 👷 I’m currently working at Sitemate in the product delivery space
-- 🌱 I’m currently learning React and Nodejs
 - 📫 How to reach me: https://www.linkedin.com/in/jasvirboparoy/ 
 
 #### Some projects I've worked on
